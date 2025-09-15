@@ -1,0 +1,65 @@
+ h1{
+    text-align: center;
+    font-family: verdana, sans-serif;
+    color: rgb(29,53,87);
+ }
+
+ p{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+
+ dt{
+    font-size: 1.25em;
+    font-family: verdana, sans-serif;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-image: linear-gradient(to right,#ebe9e1, #f2f0ec);
+ }
+
+ dd{
+    padding-bottom: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+ }
+
+ body{
+    background-color: #0FA3B1;
+ }
+
+ div{
+    padding: 1em;
+    background-color: #F9F7F3;
+    border-radius: 25px;
+    max-width: 800px;
+    margin: auto;
+ }
+
+ hr{
+    height: 1px;
+    background-color: #F7A072;
+    border: 0;
+ }
+
+ .logo {
+    height: 3em;
+    }
+
+ #GitLogo{
+    padding-right: 0.5em;
+ }
+
+ #GitHubLogo{
+    padding-left: 0.5em;
+ }
+
+ .footerLogo{  
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+ }
+
+ p{
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+ }
